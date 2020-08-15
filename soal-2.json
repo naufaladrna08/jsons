@@ -1,0 +1,94 @@
+ 
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Sebuah program tambahan yang berfungsi sebagai alat mempermudah penggunaan PC disebut….",
+      "correct_answer": "Software / Aplikasi",
+      "incorrect_answers": ["Program Paket", "Bahasa Pemrograman", "Hardware"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Kekurangan dari Mikrotik adalah...",
+      "correct_answer": "Mikrotik belum mampu menangani sebuah jaringan internet yang berskala besar",
+      "incorrect_answers": ["User Friendly", "Murah", "Semua Benar"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Dibawah ini merupakan kelebihan GUI dibandingkan Text adalah...",
+      "correct_answer": "User friendly",
+      "incorrect_answers": ["Tampilan kurang menarik", "Konfigurasi Sulit", "Semua Benar"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Apakah winbox sudah bisa berjalan di Sistem Operasi Linux..",
+      "correct_answer": "Sudah tapi harus menggunakan Wine",
+      "incorrect_answers": ["Belum", "Nggak Bisa", "Bisa"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Memiliki fungsi untuk mengubah destination address pada sebuah paket data. Biasa digunakan untuk membuat host dalam jaringan lokal dapat diakses dari luar jaringan (internet) dengan cara NAT akan mengganti alamat IP tujuan paket dengan alamat IP lokal adalah...",
+      "correct_answer": "DSTNAT",
+      "incorrect_answers": ["SCNAT", "DHCPNAT", "REDIRECT"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Pada menu wireless apakah kita mengakses informasi tentang jumlah client yang terhubung dengan mikrotik...",
+      "correct_answer": "Registration",
+      "incorrect_answers": ["Security Profile", "Connection List", "Access List"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Berikut ini yang merupakan opsi yang tidak mungkin ditayangkan saat proses konfigurasi, IP > Hotspot > Setup adalah...",
+      "correct_answer": "User Profiles",
+      "incorrect_answers": ["DHCP", "DNS Server", "Hotspot"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Berikut ini paket data yang dikirim oleh client yang memiliki tujuan ke internet, melewati router dikenal dengan...",
+      "correct_answer": "Forward",
+      "incorrect_answers": ["Input", "Output", "Options"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Mikrotik berasal dari negara yang terletak antara rusia dan swedia, negara yang dimaksud adalah...",
+      "correct_answer": "Latvia",
+      "incorrect_answers": ["Kuffukiland", "Indonesia", "Rusia", "USA", "Inggris", "Jepang", "Skotlandia", "Finlandia"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Instalasi sistem operasi Mikrotik menggunakan media jaringan biasa disebut...",
+      "correct_answer": "Netinstall",
+      "incorrect_answers": ["FTP", "Winbox", "GRUB"]
+    },
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Cara mengakses Router Mikrotik dibawah ini kecuali...",
+      "correct_answer": "Komputer",
+      "incorrect_answers": ["Telnet", "Winbox", "SSH"]
+    }
+  ]
+}
