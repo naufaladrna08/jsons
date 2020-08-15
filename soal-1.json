@@ -1,0 +1,27 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Networking",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Alat yang berfungsi untuk menghubungkan dua jaringan dengan degmen yang berbeda adalah",
+      "correct_answer": "Router",
+      "incorrect_answers": ["Modem", "Hub", "Switch"]
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Berikut ini adalah fungsi dari Firewall yang tepat adalah", 
+      "correct_answer": "Mengatur dan mengontrol lalu lintas jaringan", 
+      "incorrect_answers": ["Penghubung antara dua jaringan yang berbeda", "Penghubung antara dua jaringan sekaligus", "Penghubung antara dua jaringan ke internet dengan menggunakan satu alamat IP Address"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Berikut ini adalah contoh dari media transmisi yang menggunakan kabel, kecuali...", 
+      "correct_answer": "Wireless", 
+      "incorrect_answers": ["STP", "Fiber Optic", "SMPT"] 
+    }
+  ]
+}
