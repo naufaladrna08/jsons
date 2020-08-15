@@ -22,6 +22,55 @@
       "question": "Berikut ini adalah contoh dari media transmisi yang menggunakan kabel, kecuali...", 
       "correct_answer": "Wireless", 
       "incorrect_answers": ["STP", "Fiber Optic", "SMPT"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "PPP Secret adalah metode pengamanan pada Mikrotik, PP Secret dapat digunakan sebagai TUnneling berikut, kecuali...", 
+      "correct_answer": "OVPN", 
+      "incorrect_answers": ["SSTP", "PPPoe", "Semua Benar"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Fungsi dari Winbox adalah sebuah software atau utility yang di gunakan untuk meremote sebuah server mikrotik kedalam mode", 
+      "correct_answer": "GUI", 
+      "incorrect_answers": ["CLI", "Terminal (yg ini yg bener)", "Semua Benar"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Berikut ini kelebihan mikrotik adalah...", 
+      "correct_answer": "Semua benar", 
+      "incorrect_answers": ["Harga yang cukup Terjangkau", "Banyak Fitur", "Mudah penggunaannya"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "User dalam mikrotik dikatagorikan kedalam beberapa group sesuai hak aksesnya, dibawah ini yang tidak termasuk kedalam group user tersebut adalah...", 
+      "correct_answer": "Root", 
+      "incorrect_answers": ["User", "Read", "Full"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Ketika kita melakukan reset konfigurasi Mikrotik, routerboard akan di reboot, setelah proses reboot selesai berapakah IP Address Ether 1...", 
+      "correct_answer": "Dynamic", 
+      "incorrect_answers": ["192.168.100.1", "192.168.1.1", "Kosong"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Dibawah ini mode wireless yang tidak termasuk ke dalam interface Wlan1 adalah...", 
+      "correct_answer": "AP-Bridging", 
+      "incorrect_answers": ["Station", "Wireless AP", "Bridge"] 
+    },
+    { "category": "Networking", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Subnet Mask yang dapat digunakan pada IP kelas B dibawah ini adalah...", 
+      "correct_answer": "255.255.0.0", 
+      "incorrect_answers": ["255.0.0.0", "255.255.255.248", "255.255.255.0"] 
     }
   ]
 }
