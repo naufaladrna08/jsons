@@ -1,0 +1,100 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Menghadapi Pendidikan 4.0, pendidikan tinggi harus mempersiapkan orientasi dan literasi baru dalam bidang pendidikan. Jika literasi lama hanya mengandalkan kemampuan baca, tulis, dan matematika maka, di era Pendidikan 4.0, yang harus dipersiapkan adalah...",
+      "correct_answer": "Semua literasi pada poin lainnya",
+      "incorrect_answers": [
+        "Literasi data", 
+        "Literasi teknologi", 
+        "Literasi manusia"
+      ]
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Menurut Roche (2019), yang bukan merupakan pilar utama revolusi industri 4.0 adalah...", 
+      "correct_answer": "Information system", 
+      "incorrect_answers": [
+        "Augmented / virtual reality", 
+        "3-dimensional printing", 
+        "Internet of things"
+      ] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Revolusi industri 1.0 ditandai dengan...", 
+      "correct_answer": "Mekanisme produksi dengan rtenaga hewan dan manusia beralih ke mekanisme produksi menggunakan mesin uap", 
+      "incorrect_answers": [
+        "Waktu terjadinya pada akhir abad ke 20", 
+        "Era digitalisasi dimulai", 
+        "Era globalisasi"
+      ] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Fenomena disruptive technology ditandai dengan...", 
+      "correct_answer": "Semua pilihan jawaban tentang teknologi", 
+      "incorrect_answers": [
+        "Teknologi yang menggantikan produk atau teknologi yang sudah mapan", 
+        "Teknologi yang mempengaruhi operasional normal pasar atau industri", 
+        "Teknologi yang menciptakan pasar dan industri baru"
+      ] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Revolusi teknologi juga dikenal sebagai", 
+      "correct_answer": "Revolusi industri 2.0", 
+      "incorrect_answers": [
+        "Revolusi industri 1.0", 
+        "Revolusi industri 3.0", 
+        "Revolusi industri 4.0"
+      ]
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Pendidikan 4.0 mengubah paradigma dalam lembaga pembelajaran. Perubahan tersebut adalah...", 
+      "correct_answer": "Studying once a life menjadi life-long learning", 
+      "incorrect_answers": [
+        "Knowledge certificate menjadi curricula-oriented degree", 
+        "Competencies-based learning menjaidi content-based learning", 
+        "inter-unit curricula menjadi single-unit curricula"
+      ] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Karakteristik dari Big Data yang menggambarkan bahwa himpunan data dalam jumlah besar saat ini cenderung membuat data menjadi tidak konsisten dan tidak pasti adalah...", 
+      "correct_answer": "Veracity", 
+      "incorrect_answers": ["Variety", "Velocity", "Value"] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Pendidikan 4.0 mengubahparadigma dalam proses pembelajaran. Perubahan tersebut adalah...", 
+      "correct_answer": "Information delivery menjadi information exhange", 
+      "incorrect_answers": ["Student-centered learning menjadi teacher-centered learning", "Informed decision making menjadi knowledge-based", "Red-world context menjadi artificial context"] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Saat berpidato dalam acara Dies Natalis ke-68 di Universitas Indonesia, Depojk, Jumat 2 Februari 2018, Presiden Jokowi mengatakan: Pendidikan tinggi menjadi penopang ekosistem nasional dalam menanggapi revolusi industi 4.0. karena...", 
+      "correct_answer": "Merupakan organisasi yang fleksibel an responsif terhadap perkembangan IPTEK", 
+      "incorrect_answers": ["Memiliki sumber daya yang besar dan mumpuni", "Memiliki sarana dan prasarana yang memadai", "Menguasai riset terkini dalam bidang revolusi industri 4.0"] 
+    }, { 
+      "category": "Peran Pendidikan Tinggi di Era Revolusi Industri 4.0", 
+      "type": "multiple", 
+      "difficulty": "easy", 
+      "question": "Pendidikan Tinggi harus menerapkan Pendidikan 4.0, pendidikan yang memanfaatkan dan mengintegrasikan pilar utama revolusi industri 4.0 dalam pembelajaran, agar...", 
+      "correct_answer": "Lulusan menjadi unggul dan berdaya saing", 
+      "incorrect_answers": ["Lulusan memiliki soft skills", "Lulusan mudah mencakup diserap oleh pasar", "Lulusan dapat mendapat ilmu pengetahuan dan teknologi terkini"] 
+    }
+  ]
+}
